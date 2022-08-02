@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Qasem Mohammad</h1> ~sa
+<h1 align="center">Hi 👋, I'm Qasem Mohammad</h1> 
 <h3 align="center">Im From Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krakensa&label=Profile%20views&color=0e75b6&style=flat" alt="krakensa" /> </p>
