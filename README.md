@@ -1,27 +1,174 @@
-<h1 align="center">Hi 👋, I'm Qasem Mohammad</h1> 
-<h3 align="center">Im From Saudi Arabia</h3>
+> בס״ד
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krakensa&label=Profile%20views&color=0e75b6&style=flat" alt="krakensa" /> </p>
+<h2 align="center"><a href="https://github.com/Anlominus">⚜️ Aภl๏miuภuຮ ⚜️</a></h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krakensa" alt="krakensa" /></a> </p>
 
-- 🌱 I’m currently learning **CSS & JavaScript & CyberSecurity**
+<img align="center" width="100" src="https://user-images.githubusercontent.com/51442719/172729066-1293d382-4a31-4f03-8c23-ab0ea5f611a0.png">
 
-- 👨‍💻 All of my projects are available at [Soon](Soon)
+⫷ [**`HacKingPro`**](https://github.com/Anlominus/HacKingPro) ⫸
+<br>
+⫷ [**`TryHackMe`**](https://github.com/Anlominus/TryHackMe) | [**`KoTH`**](https://github.com/Anlominus/TryHackMe/tree/main/King%20of%20the%20Hill/KoTH) ⫸
+<br>
+⫷ [**`Privilege-Escalation`**](https://github.com/Anlominus/Privilege-Escalation)⫸
+<br>
+⫷ [**`ScanPro`**](https://github.com/Anlominus/ScanPro) | [**`Linfo`**](https://github.com/Anlominus/Linfo) | [**`Diablo`**](https://github.com/Anlominus/Diablo) ⫸
+<br>
+⫷ [**`Offensive-Security`**](https://github.com/Anlominus/Offensive-Security) | [**`PenTest`**](https://github.com/Anlominus/PenTest) ⫸
+<br>
+⫷ [**`Goals`**](https://github.com/Anlominus/Goals) | [**`Studies`**](https://github.com/Anlominus/Studies) | [**`HacKing`**](https://github.com/Anlominus/HacKing) | [**`AnyTeam`**](https://github.com/Anlominus/AnyTeam) ⫸
+<br>
 
-- 📫 How to reach me **qasemcode@gmail.com**
 
-- 📄 Know about my experiences [Soon](Soon)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+⫷ [**`Paths`**](#Paths) | [**`Modules`**](./Modules) | [**`Rooms`**](./Room) ⫸
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krakensa&show_icons=true&locale=en&layout=compact" alt="krakensa" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krakensa&show_icons=true&locale=en" alt="krakensa" /></p>
+# Paths
+- [[ ]  [INTRODUCTION TO CYBER SECURITY](#-introduction-to-cyber-security) `24 Hours`
+- [ ]  [JR PENETRATION TESTER](#-jr-penetration-tester) `56 Hours`
+- [ ]  [PRE SECURITY](#-pre-security) `40 Hours`
+- [ ]  [COMPLETE BEGINNER](#-complete-beginner) `64 Hours`
+- [ ]  [WEB FUNDAMENTALS](#-web-fundamentals) `32 Hours`
+- [ ] [COMPTIA PENTEST+](#comptia-pentest) `51 Hours`
+- [ ] [OFFENSIVE PENTESTING](#offensive-pentesting) `47 Hours`
+- [ ] [CYBER DEFENSE](#cyber-defense) `48 Hours`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krakensa&" alt="krakensa" /></p>
+--
+
+# [🔒 TryHackMe 📝](https://tryhackme.com/)
+
+<img align="center"  src="https://user-images.githubusercontent.com/51442719/175040415-d4e67728-19e9-498d-918b-48fd3beac49d.png">
+
+![image](https://user-images.githubusercontent.com/51442719/173326175-c37692c7-0769-4959-b98d-fb218047d53e.png)
+
+```bash
+wget https://raw.githubusercontent.com/Anlominus/TryHackMe/main/TryHackMe; chmod +x TryHackMe; ./TryHackMe
+```
+
+<a href="https://tryhackme.com/p/Anlominus">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Anlominus.png" alt="TryHackMe">
+</a>
+
+---
+
+</div>
+
+## 👑 [King of the Hill](https://github.com/Anlominus/TryHackMe/tree/main/King%20of%20the%20Hill) 🏔
+
+---
+
+### [Learning Paths](https://github.com/Anlominus/TryHackMe/tree/main/Learning%20Path#learning-paths) & Certificates
+
+- #  [INTRODUCTION TO CYBER SECURITY](https://github.com/Anlominus/TryHackMe/blob/main/Learning%20Path/Introduction%20to%20Cyber%20Security)
+    > <img width="400" src="https://user-images.githubusercontent.com/51442719/173556502-268cd44f-6dd5-4880-9355-6198212d710f.png"> <br>
+    > Issued on: `1 June 2022` <br>
+    > Cert ID: `THM-KEKXOZE5DA`
+  - [ ] Path Progress (0%)
+    - `Easy`
+    - `24 Hours`
+    - [x] Introduction to Cyber Security
+      > Understand what is offensive and defensive security, and learn about careers available in cyber.
+
+    - [x] Introduction to Offensive Security
+      > Understand what Offensive Security entails, and practice breaking into computer systems by exploiting applications and networks.
+
+    - [x] Introduction to Defensive Security
+      > Learn Defensive Security by using digital forensics in an investigation and applying security operations to stop a live cyber attack.
+
+
+---
+
+
+- #  [JR PENETRATION TESTER](https://github.com/Anlominus/TryHackMe/blob/main/Learning%20Path/Jr%20Penetration%20Tester)
+    > <img width="400" src="https://user-images.githubusercontent.com/51442719/173556656-bc28a8db-ba13-4276-9422-d6a23cb6c8b9.png"> <br>
+    > Issued on: `29 December 2021` <br>
+    > Cert ID: `THM-WWQ2DBBZLG`
+  - [ ] Path Progress (0%)
+    - `Intermediate`
+    - `56 Hours`
+
+---
+
+
+- #  [PRE SECURITY](https://github.com/Anlominus/TryHackMe/tree/main/Learning%20Path/Pre%20Security)
+    >  <img width="400" src="https://user-images.githubusercontent.com/51442719/173556879-fb290bdc-563a-4a35-875d-6714e4446ed7.png"> <br>
+    > Issued on: `7 November 2021` <br>
+    > Cert ID: `THM-FDIDRTSJEO`
+  - [ ] Path Progress (0%)
+    - `Easy`
+    - `40 Hours`
+
+---
+
+
+- #  [COMPLETE BEGINNER](https://github.com/Anlominus/TryHackMe/tree/main/Learning%20Path/Complete%20Beginner)
+    > <img width="400" src="https://user-images.githubusercontent.com/51442719/177428601-4c2192fb-e553-4b3b-ab5c-a14a858ca9d2.png"> <br>
+    > Issued on: `14 June 2022` <br>
+    > Cert ID: `THM-CUBKJK2GY6`
+    - [ ] Path Progress (0%)
+    - `Easy`
+    - `64 Hours`
+
+---
+
+
+- #  [WEB FUNDAMENTALS](https://github.com/Anlominus/TryHackMe/tree/main/Learning%20Path/Web%20Fundamentals)
+    > <img width="400" src="https://user-images.githubusercontent.com/51442719/173555903-151151a6-4478-4f5b-a78a-09fa0a917331.png"> <br>
+    > Issued on: `14 June 2022` <br>
+    > Cert ID: `THM-KIAXER8B0Z`
+  - [ ] Path Progress (0%)
+    - `Easy`
+    - `32 Hours`
+
+---
+
+- # [COMPTIA PENTEST+](https://github.com/Anlominus/TryHackMe/tree/main/Learning%20Path/CompTIA%20Pentest%2B)
+  - [ ] Path Progress (0%)
+    - `Easy`
+    - `51 Hours`
+
+---
+
+
+- # [OFFENSIVE PENTESTING](https://github.com/Anlominus/TryHackMe/tree/main/Learning%20Path/Offensive%20Pentesting)
+  - [ ] Path Progress (0%)
+    - `Intermediate`
+    - `47 Hours`
+
+---
+
+
+- # [CYBER DEFENSE](https://github.com/Anlominus/TryHackMe/tree/main/Learning%20Path/Cyber%20Defense)
+  - [ ] Path Progress (0%)
+    - `Intermediate`
+    - `48 Hours`
+
+---
+- [CTF writeups](https://github.com/ChrisPritchard/ctf-writeups) ~ Write-ups of the vulnhub VMs, TryHackMe rooms and other CTFs I have done or am doing, plus helpful resources.
+- [TryHackMe-Notes](https://github.com/nargaw/TryHackMe-Notes)
+- [PyWhat](https://github.com/bee-san/pyWhat)
+- [TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions.](https://github.com/edoardottt/tryhackme-ctf)
+- [CTF-Writeups](https://github.com/AbdullahRizwan101/CTF-Writeups/tree/master/TryHackMe)
+- Sma-Das/[TryHackMe](https://github.com/Sma-Das/TryHackMe0)
+- thehackingsage/[tryhackme](https://github.com/thehackingsage/tryhackme)
+
+---
+
+![1](https://user-images.githubusercontent.com/51442719/172742380-5ae5fdd0-f71a-411d-8fbd-8dc6105fa943.jpg)
+
+---
+
+![Alt](https://repobeats.axiom.co/api/embed/fa913abe688e84ef0c5d641cb9688c4b9a45953c.svg "Repobeats analytics image")
+
+---
+
+<h2 align="center">
+
+  **[`^        Back to TOP        ^`](#)**
+
+</h2>
