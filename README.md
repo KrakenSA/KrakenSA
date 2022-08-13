@@ -1,4 +1,3 @@
-> בס״ד 
 
 
 <h2 align="center">
