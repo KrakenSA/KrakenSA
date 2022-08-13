@@ -1,7 +1,6 @@
-> בס״ד
 <div align="center">
 
-<h2 align="center"><a href="https://github.com/Anlominus">⚜️ Aภl๏miuภuຮ ⚜️</a></h2>
+<h2 align="center"><a href="https://github.com/KrakenSA">⚜️ KrakenSA ⚜️</a></h2>
 
 
 <img align="center" width="100" src="https://user-images.githubusercontent.com/51442719/172729066-1293d382-4a31-4f03-8c23-ab0ea5f611a0.png">
@@ -65,7 +64,7 @@ wget https://raw.githubusercontent.com/Anlominus/TryHackMe/main/TryHackMe; chmod
 ### [Learning Paths](https://github.com/Anlominus/TryHackMe/tree/main/Learning%20Path#learning-paths) & Certificates
 
 - #  [INTRODUCTION TO CYBER SECURITY](https://github.com/Anlominus/TryHackMe/blob/main/Learning%20Path/Introduction%20to%20Cyber%20Security)
-    > <img width="400" src="https://user-images.githubusercontent.com/51442719/173556502-268cd44f-6dd5-4880-9355-6198212d710f.png"> <br>
+ <br>
     > Issued on: `1 June 2022` <br>
     > Cert ID: `THM-KEKXOZE5DA`
   - [ ] Path Progress (0%)
@@ -85,7 +84,7 @@ wget https://raw.githubusercontent.com/Anlominus/TryHackMe/main/TryHackMe; chmod
 
 
 - #  [JR PENETRATION TESTER](https://github.com/Anlominus/TryHackMe/blob/main/Learning%20Path/Jr%20Penetration%20Tester)
-    > <img width="400" src="https://user-images.githubusercontent.com/51442719/173556656-bc28a8db-ba13-4276-9422-d6a23cb6c8b9.png"> <br>
+ <br>
     > Issued on: `29 December 2021` <br>
     > Cert ID: `THM-WWQ2DBBZLG`
   - [ ] Path Progress (0%)
@@ -96,7 +95,7 @@ wget https://raw.githubusercontent.com/Anlominus/TryHackMe/main/TryHackMe; chmod
 
 
 - #  [PRE SECURITY](https://github.com/Anlominus/TryHackMe/tree/main/Learning%20Path/Pre%20Security)
-    >  <img width="400" src="https://user-images.githubusercontent.com/51442719/173556879-fb290bdc-563a-4a35-875d-6714e4446ed7.png"> <br>
+ <br>
     > Issued on: `7 November 2021` <br>
     > Cert ID: `THM-FDIDRTSJEO`
   - [ ] Path Progress (0%)
@@ -118,7 +117,7 @@ wget https://raw.githubusercontent.com/Anlominus/TryHackMe/main/TryHackMe; chmod
 
 
 - #  [WEB FUNDAMENTALS](https://github.com/Anlominus/TryHackMe/tree/main/Learning%20Path/Web%20Fundamentals)
-    > <img width="400" src="https://user-images.githubusercontent.com/51442719/173555903-151151a6-4478-4f5b-a78a-09fa0a917331.png"> <br>
+ <br>
     > Issued on: `14 June 2022` <br>
     > Cert ID: `THM-KIAXER8B0Z`
   - [ ] Path Progress (0%)
