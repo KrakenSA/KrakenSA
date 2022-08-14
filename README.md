@@ -9,17 +9,9 @@
 
 <img align="center" width="100" src="https://user-images.githubusercontent.com/51442719/172729066-1293d382-4a31-4f03-8c23-ab0ea5f611a0.png">
 
-⫷ [`HacKingPro`](https://github.com/KrakenSA/HacKingPro) ⫸
+⫷ [`KoTH`](https://github.com/KrakenSA/TryHackMe/tree/main/King%20of%20the%20Hill/KoTH) ⫸
 <br>
-⫷ [`TryHackMe`](https://github.com/KrakenSA/TryHackMe) | [`KoTH`](https://github.com/KrakenSA/TryHackMe/tree/main/King%20of%20the%20Hill/KoTH) ⫸ 
-<br>
-⫷ [`Privilege-Escalation`](https://github.com/KrakenSA/Privilege-Escalation) ⫸
-<br>
-⫷ [`ScanPro`](https://github.com/KrakenSA/ScanPro) | [`Linfo`](https://github.com/KrakenSA/Linfo) | [`Diablo`](https://github.com/KrakenSA/Diablo) ⫸ 
-<br>
-⫷ [`Offensive-Security`](https://github.com/KrakenSA/Offensive-Security) | [`PenTest`](https://github.com/KrakenSA/PenTest) ⫸
-<br>
-⫷ [`Goals`](https://github.com/KrakenSA/Goals) | [`Studies`](https://github.com/KrakenSA/Studies) | [`HacKing`](https://github.com/KrakenSA/HacKing) | [`AnyTeam`](https://github.com/KrakenSA/AnyTeam) ⫸
+⫷ [`TryHackMe`](https://github.com/qasemalmug/TryHackMe) ⫸ 
 <br>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
@@ -89,7 +81,7 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="450" height="1"><br>
 
  <br>
-<a href="https://tryhackme.com/p/KrakenSA">
+<a href="https://tryhackme.com/p/qasemalmug">
   <img src="https://tryhackme-badges.s3.amazonaws.com/KrakenSA.png" alt="TryHackMe">
 </a><br>
  
