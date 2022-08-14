@@ -1,20 +1,3 @@
-
-
-
-<h2 align="center">
-
-
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="200" height="2"> <br><br>
- 
- 
- 🌑🌒🌓🌔🌕🌖🌗🌘🌑
- 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="500" height="2"><br>
-
-<p align="center">🔱 We believe in God, everyone else is suspicious 🔱</p>
-
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="500" height="2"><br>
- 
  
 </h2>
 
@@ -282,20 +265,19 @@ Working | In Process | Interesting
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/KrakenSA/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/linkedin.svg" /> LinkedIn</a>
+    <a href="https://www.linkedin.com/in/soon/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/linkedin.svg" /> LinkedIn</a>
   </code>
   <code>
-    <a href="https://twitter.com/KrakenSA/" title="Twitter Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitter.svg" /> Twitter</a>
+    <a href="https://twitter.com/soon/" title="Twitter Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitter.svg" /> Twitter</a>
   </code>
   <code>
-    <a href="https://www.instagram.com/KrakenSAX/" title="Instagram Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/instagram.svg" /> Instagram</a>
+    <a href="https://www.instagram.com/soon/" title="Instagram Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/instagram.svg" /> Instagram</a>
   </code>
   <code>
-    <a href="https://www.twitch.tv/KrakenSA"><img alt="Twitch" title="Twitch" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitch.svg" /> Twitch</a>
+    <a href="https://www.twitch.tv/soon"><img alt="Twitch" title="Twitch" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitch.svg" /> Twitch</a>
   </code>
   <code>
-    <a href="https://www.youtube.com/c/KrakenSA"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/youtube.svg" /> YouTube</a>
+    <a href="https://www.youtube.com/c/soon"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/youtube.svg" /> YouTube</a>
   </code>
 </h5>
 
-- [Discord Invite](https://discord.gg/wqt8TjQU9p)
